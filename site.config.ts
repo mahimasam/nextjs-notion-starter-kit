@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   
-  linkedin: 'mahimasamant98',
+ 
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   newsletter: 'https://youvegotverse.super.site/',
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
