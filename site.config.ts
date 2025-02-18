@@ -20,7 +20,7 @@ export default siteConfig({
   
   linkedin: 'mahimasamant98',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  poems: 'https://youvegotverse.super.site/',
+  newsletter: 'https://youvegotverse.super.site/',
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
